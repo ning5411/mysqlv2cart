@@ -1,5 +1,5 @@
 Name: nsunmysql
-Cartridge-Short-Name: NSUNMYSQL
+Cartridge-Short-Name: MYSQL
 Architecture: noarch
 Display-Name: NSUNMySQL Database 5.1
 Description: "MySQL is a multi-user, multi-threaded SQL database server."
